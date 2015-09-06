@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CCF3C52C-F710-4F0C-B441-087AE6328845</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GPUImage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>324045F0B7021A02216B61B6CC509C9DE44FA605</key>
+		<string>42.96.186.99:~/monstea-client.git</string>
+		<key>9B7459D877DE42C36E55F4280A17C42457EC9C8E</key>
+		<string>42.96.186.99:/git/qqh2iphonev1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Whisper/Whisper/WPControllers/WPViewControllers/CameraViewControll/GPUImage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>324045F0B7021A02216B61B6CC509C9DE44FA605</key>
+		<string>../../../../../../../..</string>
+		<key>9B7459D877DE42C36E55F4280A17C42457EC9C8E</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>42.96.186.99:/git/qqh2iphonev1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B7459D877DE42C36E55F4280A17C42457EC9C8E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>324045F0B7021A02216B61B6CC509C9DE44FA605</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B7459D877DE42C36E55F4280A17C42457EC9C8E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WXMessage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
